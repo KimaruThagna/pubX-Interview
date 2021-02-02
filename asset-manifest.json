@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pubX-Interview/static/css/main.dc9c63bd.chunk.css",
-    "main.js": "/pubX-Interview/static/js/main.5a8fc80c.chunk.js",
-    "main.js.map": "/pubX-Interview/static/js/main.5a8fc80c.chunk.js.map",
+    "main.js": "/pubX-Interview/static/js/main.706b7bd0.chunk.js",
+    "main.js.map": "/pubX-Interview/static/js/main.706b7bd0.chunk.js.map",
     "runtime-main.js": "/pubX-Interview/static/js/runtime-main.bf56ffb3.js",
     "runtime-main.js.map": "/pubX-Interview/static/js/runtime-main.bf56ffb3.js.map",
     "static/css/2.150d169a.chunk.css": "/pubX-Interview/static/css/2.150d169a.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.232a4381.chunk.js",
     "static/css/main.dc9c63bd.chunk.css",
-    "static/js/main.5a8fc80c.chunk.js"
+    "static/js/main.706b7bd0.chunk.js"
   ]
 }
