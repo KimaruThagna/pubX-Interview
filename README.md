@@ -16,9 +16,14 @@ Working code for task a)
 
 - Start the application by running `npm start`
 
-Should the app throw an error, consider refreshing the app.
+- Access the app on localhost:3000/
+### Run using NGROK (Optional)
+Since the prebid ads do not load on localhost, an optional approach is to download [ngrok](https://ngrok.com/) and use it to provide a tunnel to the app.
+To run ngrok, navigate to where the executable is located and run the command `./ngrok http 3000`.
+
+This will give you an ngrok based domain you can use to access the app.
+
 ## Screenshots
 Using Mock data
 ![loccalhost_app](img/screen1.png)
 
-![loccalhost_app](img/screen_2.png)
