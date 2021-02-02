@@ -8,14 +8,17 @@ Submission: System architecture diagram and justification document
 Working code for task a)
 
 ### Run the app
-Navigate into the `pubx/` folder by running `cd pubx/`
+- Navigate into the `pubx/` folder by running `cd pubx/`
 
-Install dependencies by running `npm install`
+- Install React bootstrap by running `npm install react-bootstrap bootstrap`
 
-Start the application by running `npm start`
+- Install dependencies by running `npm install`
 
+- Start the application by running `npm start`
+
+Should the app throw an error, consider refreshing the app.
 ## Screenshots
-
-![loccalhost_app](img/screen_1.png)
+Using Mock data
+![loccalhost_app](img/screen1.png)
 
 ![loccalhost_app](img/screen_2.png)

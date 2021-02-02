@@ -1,8 +1,6 @@
 import './App.css';
 import React, {Component, Fragment} from "react";
-import Jumbotron from "./Jumbotron/Jumbotron";
 import BiddersTable from "./BiddersTable/BiddersTable";
-import ResponsesTable from "./ResponsesTable/ResponsesTable";
 import {Container} from "react-bootstrap";
 import CardView from "./Card/CardView";
 
