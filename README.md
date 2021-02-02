@@ -6,3 +6,5 @@ Submission: System architecture diagram and justification document
 
 ## Part 2
 Working code for task a)
+
+### Run the app
