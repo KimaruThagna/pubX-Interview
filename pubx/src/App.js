@@ -88,19 +88,26 @@ class App extends Component {
 
     }
 //    component mounted
-    componentDidMount() {
-        if (Object.keys(this.props.data).length === 0){ // check again that no data came from prebid
+     componentDidMount() {
+        const data = this.props.data
+        if (Object.keys(data).length === 0){
             this.setState({
-                message: "no bidders available" // allow use of mock data
+                message: "no bidders available"
             })
         }
             else{
                 this.setState({
-                    bidders: this.props.data // set data retrieved from prebid
+                    bidders: this.props.data
                 })
+            console.log(data)
             }
-        }
+        setTimeout(
+            () => this.setState({
+                count: this.state.bidders.bids.length }),
+            2000
+        );
 
+        }
 
     render() {
         const count = this.state.bidders.bids.length
