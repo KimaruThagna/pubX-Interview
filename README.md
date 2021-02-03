@@ -8,6 +8,8 @@ Submission: System architecture diagram and justification document
 Working code for task a)
 
 ### Run the app
+For best experience, turn off any adblocker and preferrably use mozilla firefox
+
 - Navigate into the `pubx/` folder by running `cd pubx/`
 
 - Install React bootstrap by running `npm install react-bootstrap bootstrap`
